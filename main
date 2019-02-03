@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        <link rel="stylesheet" href="css_blogmain.css" type="text/css">
+    </head>
+    <body>
+        
+        <h1>Vincent's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#fist-post">First post</a></li>
+            <li><a href="#second-post">Second post</a></li>
+            <li><a href="#Third-post">Third post!</a></li>
+        </ul>
+        
+        <h2 id="first-post">First post</h2>
+        <h6>Updated Jan. 1, 2019</h6>
+        <img class="photo" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Croce-Mozart-Detail.jpg" height="200">
+        <p class="verse"><span>Abend ist’s, die Sonne ist verschwunden,</span></p>
+<p>Und der Mond strahlt Silberglanz;</p>
+<p>So entflieh’n des Lebens schönste Stunden,</p>
+<p>Flieh’n vorüber wie im Tanz!</p>
+        <p class="verse"><span>Bald entflieht des Lebens bunte Szene,</span>
+<p>Und der Vorhang rollt herab.</p>
+<p>Aus ist unser Spiel! Des Freundes Träne</p>
+<p>Fließet schon auf unser Grab.</p>
+        
+        <h2 id="second post">Second Post</h2>
+        <h6>Updated Feb. 1, 2019</h6>
+        <img class="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Beethoven.jpg/220px-Beethoven.jpg" height="200">
+        <p class="verse"><span>Bald vielleicht mir weht, wie Westwind leise,</span>
+<p>Eine stille Ahnung zu –</p>
+<p>Schließ’ ich dieses Lebens Pilgerreise,</p>
+<p>Fliege in das Land der Ruh’.</p>
+
+        <p class="verse"><span>Werdet ihr dann an meinem Grabe weinen,</span></p>
+<p>Trauernd meine Asche seh’n,</p>
+<p>Dann, o Freunde, will ich euch erscheinen</p>
+<p>Und will Himmel auf euch weh’n.</p>
+
+        <h2 id="third post">Third Post</h2>
+        <h6>Updated March 1, 2019</h6>
+        <img class="photo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tchaikovsky_by_Reutlinger.jpg/413px-Tchaikovsky_by_Reutlinger.jpg" height="200" >
+        <p class="verse"><span>Schenk’ auch du ein Tränchen mir</span></p>
+<p>Und pflücke mir ein Veilchen auf mein Grab;</p>
+<p>Und mit deinem seelenvollen Blicke</p>
+<p>Sieh’ dann sanft auf mich herab.</p>
+        <p class="verse"><span>Weih mir eine Träne, und ach!</span></p>
+<p>Schäme dich nur nicht, sie mir zu weih’n,</p>
+<p>Oh, sie wird in meinem Diademe</p>
+<p>Dann die schönste Perle sein.</p>
+        <h4>For more information see <a href="https://en.wikipedia.org/wiki/Ludwig_van_Beethoven">Wikipedia.com</a></h4>
+        
+    </body>
+</html>
