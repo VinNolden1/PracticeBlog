@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: rgb(2, 2, 181);
+}
+h2 {
+    text-align: center;
+}
+.verse {
+    text-indent: 20px;
+}
+span {
+    font-weight: bold;
+}
+.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+p {
+    line-height:5px;
+}
